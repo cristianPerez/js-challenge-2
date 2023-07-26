@@ -1,4 +1,4 @@
-# Java Script
+# Java Script code challenge
 ## 1 - Run-Length Encoding
 
   
